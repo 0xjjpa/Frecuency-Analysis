@@ -1,0 +1,36 @@
+CACHE MANIFEST
+
+# Time: Wed Feb 27 2013 21:49:36 GMT-0600 (CST)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://localhost:3501/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://localhost:3501
+#  configFile: /Users/jjperezaguinaga/.nvm/v0.8.12/lib/node_modules/yeoman/lib/support/confess.json
+
+CACHE:
+components/highcharts/highcharts.js
+components/knockout/build/output/knockout-latest.js
+highcharts-1
+http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js
+http://localhost:3501/app/images/glyphicons-halflings-white.png?1362015767
+http://localhost:3501/app/images/glyphicons-halflings.png?1362015767
+http://www.google-analytics.com/ga.js
+scripts/574e7ae3.main.js
+scripts/vendor/cf69c6f2.modernizr.min.js
+styles/56e1df83.main.css
+
+NETWORK:
+*
